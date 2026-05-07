@@ -1,0 +1,10 @@
+name: pcos-health-companion
+title:
+username: rebeccadata
+account: rebeccadata
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17279437
+bundleId: 11939139
+url: https://rebeccadata.shinyapps.io/pcos-health-companion/
+version: 1
